@@ -1,3 +1,10 @@
 # git_course
 
-This is a repo set up as part of a course taken on coursera. It is pretty much just here to prove I can use git. 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
